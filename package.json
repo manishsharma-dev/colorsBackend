@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/moviesspace/colorsBackend/issues"
   },
-  "homepage": "https://github.com/moviesspace/colorsBackend#readme"
+  "homepage": "https://github.com/moviesspace/colorsBackend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
